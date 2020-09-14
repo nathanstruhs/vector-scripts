@@ -1,0 +1,15 @@
+{
+  "name": "vcd",
+  "version": "1.0.0",
+  "description": "CD into vector directories",
+  "main": "./lib/vcd.js",
+  "bin": {
+    "vcd": "./bin/index.js"
+  },
+  "author": "Nathan Struhs",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.19"
+  }
+}

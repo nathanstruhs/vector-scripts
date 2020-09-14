@@ -1,0 +1,16 @@
+{
+  "name": "relink",
+  "version": "1.0.0",
+  "description": "Execute npm link on prefined directory mappings",
+  "main": "./lib/relink.js",
+  "bin": {
+    "relink": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "Nathan Struhs",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.19"
+  }
+}
