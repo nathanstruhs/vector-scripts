@@ -6,7 +6,7 @@ Relink wraps `npm link` command and performs action based on current directory.
 
 ```
 git clone ...
-cd vector-script relink
+cd vector-scripts/relink
 npm i
 npm install -g relink
 ```
