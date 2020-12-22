@@ -8,7 +8,7 @@ Relink wraps `npm link` command and performs action based on current directory.
 git clone ...
 cd vector-scripts/relink
 npm i
-npm install -g relink
+npm install -g ./
 ```
 
 Add full local paths to `.env`. (Find full local paths with `pwd`)
